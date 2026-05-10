@@ -1,4 +1,4 @@
-# Hello, im Katirant 👋
+# Welcome, I'm Katirant 👋
 
 ### Who am I? ✨
 
