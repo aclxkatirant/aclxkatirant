@@ -1,6 +1,8 @@
 # Hello, im Katirant 👋
 
-### Who Am I? ✨
+---
+
+Who Am I? ✨
 
 My computer journey began at the age of 6 playing simple games, continued as an anti-cheat developer within FiveM communities, and I am currently developing full-stack projects.
 
